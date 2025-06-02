@@ -1,4 +1,4 @@
-# Sistema Experto de Turismo en Tierra del Fuego
+# Sistema Experto de Senderismo y Turismo en Tierra del Fuego
 
 *Descripción del Proyecto*
 
