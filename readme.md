@@ -8,9 +8,11 @@ El sistema está diseñado para ser fácilmente integrable en cualquier aplicaci
 Características
 
 Filtrado de Senderos: Busca senderos por dificultad, ubicación, categoría de duración, estación del año y fecha planificada.
+
 Recomendaciones de Seguridad: Obtén consejos de seguridad específicos para senderismo, adaptados a la dificultad de la ruta.
 
 Información de Museos: Accede a detalles sobre los museos y sitios culturales de Ushuaia y Río Grande, incluyendo horarios y tarifas.
+
 Guía de Deportes de Invierno: Descubre las actividades y centros de deportes invernales disponibles en la provincia.
 
 Flora y Fauna: Conoce los ecosistemas y las especies más representativas de la naturaleza fueguina.
@@ -59,7 +61,7 @@ Instalación:
 Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 
 - Clona el repositorio:
-- 
+  
 git clone https://github.com/tu_usuario/tu_proyecto.git
 
 cd tu_proyecto
