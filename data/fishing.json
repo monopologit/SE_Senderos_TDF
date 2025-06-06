@@ -1,0 +1,26 @@
+[
+  {
+    "location": "Río Grande",
+    "type": "Río/Mar",
+    "species": "Salmónidos (truchas, especialmente trucha marrón)",
+    "notes": "Considerada la meca de la pesca deportiva de salmónidos a nivel internacional. Se practica en ríos como el Río Grande. Es fundamental conocer y respetar las regulaciones locales de pesca, que incluyen licencias, temporadas, límites de captura y modalidades permitidas para evitar infracciones. La pesca es generalmente con devolución obligatoria en muchos sectores."
+  },
+  {
+    "location": "Tolhuin",
+    "type": "Lago/Río",
+    "species": "Salmónidos (truchas)",
+    "notes": "Los lagos como el Lago Khami (Fagnano), Yehuin, Yakush y Chepelmut, así como ríos, ofrecen oportunidades para la pesca deportiva. Al igual que en Río Grande, es crucial informarse sobre las regulaciones específicas de cada cuerpo de agua y las temporadas de pesca."
+  },
+  {
+    "location": "Ushuaia y alrededores",
+    "type": "Río/Lago/Mar",
+    "species": "Salmónidos (truchas), especies marinas",
+    "notes": "Aunque menos prominente que en Río Grande, también hay opciones de pesca deportiva en ríos y lagos cercanos. La pesca en el Canal Beagle puede incluir especies marinas."
+  },
+  {
+    "location": "General (Toda la Provincia)",
+    "type": "Regulaciones",
+    "species": "N/A",
+    "notes": "La pesca deportiva en Tierra del Fuego está estrictamente regulada para la conservación de las especies. Es OBLIGATORIO obtener una licencia de pesca provincial. Las temporadas de pesca varían según la especie y el cuerpo de agua (generalmente de noviembre a abril para salmónidos, pero verificar fechas exactas cada año). Se deben respetar los límites de captura, tamaños mínimos y la modalidad de pesca (ej. mosca, spinning). La pesca con devolución es común y fomentada. Consultar las normativas del Instituto Fueguino de Turismo (INFUETUR) o las autoridades de fauna para la información más actualizada y evitar infracciones."
+  }
+]

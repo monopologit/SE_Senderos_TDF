@@ -1,0 +1,32 @@
+[
+  {
+    "ecosystem": "Bosques Subantárticos",
+    "flora": "Lenga, Ñire",
+    "fauna": "Carpintero Gigante (Campephilus magellanicus), Rayadito (Aphrastura spinicauda), Picolezna Patagónico (Pygarrhichas albogularis), Zorzal Patagónico (Turdus flacklandii), Zorro Colorado, Guanaco, Cóndor.",
+    "notes": "Característicos de las zonas montañosas y valles."
+  },
+  {
+    "ecosystem": "Turbales (Humedales)",
+    "flora": "Musgos, plantas acuáticas",
+    "fauna": "Diversas especies de aves acuáticas y migratorias.",
+    "notes": "Ecosistemas de gran valor ambiental, importantes para la biodiversidad."
+  },
+  {
+    "ecosystem": "Costa Marina y Lagos",
+    "flora": "Pastizales costeros",
+    "fauna": "Aves marinas y costeras, fauna marina (observación de lobos marinos, pingüinos en Isla Martillo).",
+    "notes": "Bahía Lapataia y el Canal Beagle son puntos clave para la observación."
+  },
+  {
+    "ecosystem": "Estepa Patagónica (Zona Norte)",
+    "flora": "Pastizales, arbustos bajos",
+    "fauna": "Guanacos, Zorros Colorados, Cóndores, diversas aves de estepa (patos, garzas, cauquenes, chorlitos, zorzales).",
+    "notes": "Paisaje rural con ganado ovino y bovino."
+  },
+  {
+    "ecosystem": "General",
+    "flora": "Flora autóctona variada, adaptada al clima austral.",
+    "fauna": "Fauna autóctona diversa, incluyendo aves migratorias que utilizan la región como zona de invernada.",
+    "notes": "La provincia es parte de la Red Hemisférica de Reservas para Aves Playeras."
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Museo del Fin del Mundo (MFM)",
+    "location": "Ushuaia",
+    "address": "Av. Maipú 173 (principal); Maipú 465 (anexo, Antigua Casa de Gobierno)",
+    "hours": "Lun-Vie: 10:00-19:00 hs; Sáb: 13:00-19:00 hs; Dom/Feriados: Cerrado",
+    "fees": "Extranjeros: $7000; Argentinos: $4000; Estudiantes/Docentes/Jubilados Arg: $2000; Menores 14, Discapacitados, Ex Combatientes, Residentes TDF: GRATIS. Pago solo digital desde Oct 2024.",
+    "description": "Historia de TDF, pueblos nativos, expediciones, naufragios, aves. Entrada válida por 3 días para ambas sedes."
+  },
+  {
+    "name": "Museo Marítimo y Ex Presidio de Ushuaia",
+    "location": "Ushuaia",
+    "address": "Yaganes y Gobernador Paz",
+    "hours": "Todos los días: 10:00-20:00 hs (admisión hasta 19:30 hs)",
+    "fees": "Adultos: $36.000; Ticket Familiar: $90.000; Estudiantes: $28.000; Docentes/Jubilados Arg: $28.000; Menores 12: GRATIS. Residentes TDF: Adultos $33.000, Estudiantes $13.500, Menores 12 GRATIS. Martes, Jueves, Sábados: GRATIS para residentes TDF.",
+    "description": "Historia de la colonia penal, pabellones históricos, exploraciones marítimas, pueblos nativos. Visitas guiadas (11:30, 18:30 hs) y teatralizadas (Lun, Mié, Vie 20:00 hs). Entrada válida por 2 días."
+  },
+  {
+    "name": "Antigua Casa de Gobierno",
+    "location": "Ushuaia",
+    "address": "Maipú 465 (anexo MFM)",
+    "hours": "Lun-Vie: 10:00-17:00 hs; Sáb/Feriados: 13:00-17:00 hs",
+    "fees": "Incluida con entrada MFM.",
+    "description": "Primera sede del gobierno territorial y legislatura. Monumento Histórico Nacional. Visitas guiadas (13:30 hs)."
+  },
+  {
+    "name": "Casa Ramos",
+    "location": "Ushuaia",
+    "address": "Av. Maipú Nº 363",
+    "hours": "Lun-Dom: 09:00-24:00 hs",
+    "fees": "N/A (Funciona como restaurante/almacén)",
+    "description": "Monumento Histórico Nacional. Construida con maderas del presidio. Considerado un 'museo vivo'."
+  },
+  {
+    "name": "Museo Regional Monseñor Fagnano",
+    "location": "Río Grande",
+    "address": "Ruta Nac. Nº3, Km 2835",
+    "hours": "Lun-Vie: 15:00-17:45 hs; Sáb/Dom: 09:00-12:30 hs y 15:00-19:00 hs",
+    "fees": "Arg: $300; Ext: $800 (Marzo 2022).",
+    "description": "Historia de la Orden Salesiana, tribus nativas. Capilla histórica de la Candelaria. Monumento Histórico Nacional."
+  },
+  {
+    "name": "Museo Municipal Virginia Choquintel",
+    "location": "Río Grande",
+    "address": "Alberdi 555",
+    "hours": "Lun-Vie: 09:00-17:00 hs; Sáb/Dom: 15:00-18:00 hs",
+    "fees": "Libre y gratuita.",
+    "description": "Historia del norte de la isla, industrias, cultura aborigen, fauna y flora. Sala de arte, microcine, biblioteca."
+  },
+  {
+    "name": "Museo Fueguino de Arte",
+    "location": "Río Grande",
+    "address": "Centro Cultural Yaganes",
+    "hours": "Lun-Vie: 11:00-18:00 hs; Sáb: 15:00-19:00 hs (datos 2018)",
+    "fees": "Libre y gratuita.",
+    "description": "Resguarda la Colección Provincial de Arte. Exhibiciones de fotografía, pintura y obras de artistas locales/nacionales."
+  },
+  {
+    "name": "Museo Malvinas Argentinas (Salón de Exposición Malvinas en la Memoria)",
+    "location": "Río Grande",
+    "address": "Centro de ex-combatientes",
+    "hours": "Mié-Vie: 09:00-17:00 hs; Sáb/Dom: 11:00-18:00 hs. Horario especial 2 de abril.",
+    "fees": "Gratuita.",
+    "description": "Recorrido por el conflicto de Malvinas, exposición de material bélico."
+  },
+  {
+    "name": "Misión Salesiana",
+    "location": "Río Grande",
+    "address": "N/A",
+    "hours": "Lun-Vie: 13:00-18:00 hs (museo)",
+    "fees": "N/A",
+    "description": "Monumento Histórico Nacional. Exhibe objetos nativos y personales de la Misión."
+  }
+]

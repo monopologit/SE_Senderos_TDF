@@ -1,0 +1,312 @@
+[
+  {
+    "name": "Castorera",
+    "difficulty": "Baja",
+    "distance": "200 mts",
+    "duration": "20 min",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Todo el año",
+    "notes": "Cartelería interpretativa. Tramo adaptado para movilidad reducida.",
+    "gpx_url": "https://example.com/gpx/castorera.gpx"
+  },
+  {
+    "name": "La Baliza",
+    "difficulty": "Baja",
+    "distance": "1.2 km",
+    "duration": "30 min",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Todo el año",
+    "notes": "Marca límite con Reserva Natural Estricta (RNE).",
+    "gpx_url": "https://example.com/gpx/la_baliza.gpx"
+  },
+  {
+    "name": "Mirador Lapataia",
+    "difficulty": "Baja",
+    "distance": "980 mts",
+    "duration": "30 min",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Todo el año",
+    "notes": "Transita bosque y turbal.",
+    "gpx_url": "https://example.com/gpx/mirador_lapataia.gpx"
+  },
+  {
+    "name": "Paseo de la Isla",
+    "difficulty": "Baja",
+    "distance": "1.3 km",
+    "duration": "30 min",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Todo el año",
+    "notes": "Transita ambiente costero y bosque.",
+    "gpx_url": "https://example.com/gpx/paseo_isla.gpx"
+  },
+  {
+    "name": "Senda del Turbal",
+    "difficulty": "Baja",
+    "distance": "1.35 km",
+    "duration": "40 min",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Todo el año",
+    "notes": "Comparte estacionamiento y primer tramo con Mirador Lapataia.",
+    "gpx_url": "https://example.com/gpx/senda_turbal.gpx"
+  },
+  {
+    "name": "Cascada Río Pipo",
+    "difficulty": "Baja",
+    "distance": "900 mts (ida)",
+    "duration": "15 min (ida)",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Nace en Campamento Río Pipo.",
+    "gpx_url": "https://example.com/gpx/cascada_rio_pipo.gpx"
+  },
+  {
+    "name": "Laguna Negra - Parque Nacional",
+    "difficulty": "Baja",
+    "distance": "N/A",
+    "duration": "15 min",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Habilitado",
+    "notes": "Sendero señalizado.",
+    "gpx_url": "https://example.com/gpx/laguna_negra_pn.gpx"
+  },
+  {
+    "name": "Hito XXIV",
+    "difficulty": "Media",
+    "distance": "3.5 km (ida)",
+    "duration": "3 hs (ida y vuelta)",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Requiere mínimo entrenamiento físico.",
+    "gpx_url": "https://example.com/gpx/hito_xxiv.gpx"
+  },
+  {
+    "name": "Senda Costera",
+    "difficulty": "Media",
+    "distance": "8 km (cada tramo)",
+    "duration": "4 hs (cada tramo)",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Nace en Ensenada Zaratiegui.",
+    "gpx_url": "https://example.com/gpx/senda_costera.gpx"
+  },
+  {
+    "name": "Senda Pampa Alta",
+    "difficulty": "Media",
+    "distance": "4.7 km (cada tramo)",
+    "duration": "2 hs (cada tramo)",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Va de Ensenada a Río Pipo.",
+    "gpx_url": "https://example.com/gpx/senda_pampa_alta.gpx"
+  },
+  {
+    "name": "Cerro Guanaco",
+    "difficulty": "Alta",
+    "distance": "6 km (ida)",
+    "duration": "4 hs (hasta cumbre)",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Horario máximo de ingreso: 12:30 hs. Requiere registro previo obligatorio (Alakush o virtual). Apto para entrenados.",
+    "gpx_url": "https://example.com/gpx/cerro_guanaco.gpx"
+  },
+  {
+    "name": "Laguna del Caminante",
+    "difficulty": "Alta",
+    "distance": "N/A",
+    "duration": "N/A",
+    "location": "Parque Nacional Tierra del Fuego",
+    "seasonal_availability": "Condicionado a clima",
+    "notes": "Requiere registro previo obligatorio. Se recomienda ingreso/egreso por cañadón de Oveja.",
+    "gpx_url": "https://example.com/gpx/laguna_caminante.gpx"
+  },
+  {
+    "name": "Cerro Michi",
+    "difficulty": "Alta",
+    "distance": "N/A",
+    "duration": "5 h",
+    "location": "Tolhuin",
+    "seasonal_availability": "Todo el año",
+    "notes": "Sendero señalizado y habilitado.",
+    "gpx_url": "https://example.com/gpx/cerro_michi.gpx"
+  },
+  {
+    "name": "Monte Susana",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "3 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Todo el año",
+    "notes": "Se recomienda contratar excursión con operador o agencia.",
+    "gpx_url": "https://example.com/gpx/monte_susana.gpx"
+  },
+  {
+    "name": "Estancia Túnel",
+    "difficulty": "Baja",
+    "distance": "N/A",
+    "duration": "3 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Todo el año",
+    "notes": "Sendero señalizado y habilitado.",
+    "gpx_url": "https://example.com/gpx/estancia_tunel.gpx"
+  },
+  {
+    "name": "Humedales",
+    "difficulty": "Baja",
+    "distance": "N/A",
+    "duration": "2 h 30 min",
+    "location": "Ushuaia",
+    "seasonal_availability": "Todo el año",
+    "notes": "Sendero señalizado y habilitado.",
+    "gpx_url": "https://example.com/gpx/humedales.gpx"
+  },
+  {
+    "name": "Laguna Encantada",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "5 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Todo el año",
+    "notes": "No se comercializa por agencias ni operadores.",
+    "gpx_url": "https://example.com/gpx/laguna_encantada.gpx"
+  },
+  {
+    "name": "Mirador del Valle de Andorra",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "4 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Todo el año",
+    "notes": "No se comercializa por agencias ni operadores.",
+    "gpx_url": "https://example.com/gpx/mirador_andorra.gpx"
+  },
+  {
+    "name": "Mirador Cabo San Pablo",
+    "difficulty": "Baja",
+    "distance": "N/A",
+    "duration": "2 h",
+    "location": "Río Grande",
+    "seasonal_availability": "Todo el año",
+    "notes": "Sendero señalizado y habilitado. Sendero al Faro San Pablo de baja dificultad.",
+    "gpx_url": "https://example.com/gpx/mirador_cabo_san_pablo.gpx"
+  },
+  {
+    "name": "Glaciar Vinciguerra",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "9 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Se recomienda contratar excursión con operador o agencia.",
+    "gpx_url": "https://example.com/gpx/glaciar_vinciguerra.gpx"
+  },
+  {
+    "name": "La Ruca",
+    "difficulty": "Baja",
+    "distance": "N/A",
+    "duration": "40 min",
+    "location": "Tolhuin",
+    "seasonal_availability": "Todo el año",
+    "notes": "Sendero señalizado y habilitado.",
+    "gpx_url": "https://example.com/gpx/la_ruca.gpx"
+  },
+  {
+    "name": "Laguna Negra (Provincial)",
+    "difficulty": "Baja",
+    "distance": "N/A",
+    "duration": "2 h",
+    "location": "Tolhuin",
+    "seasonal_availability": "Todo el año",
+    "notes": "Bien señalizado con cartelería informativa. Sendero interpretativo 'Paisaje en Movimiento' de baja dificultad.",
+    "gpx_url": "https://example.com/gpx/laguna_negra_provincial.gpx"
+  },
+  {
+    "name": "Mirador-Reserva del Glaciar Martial",
+    "difficulty": "Alta",
+    "distance": "N/A",
+    "duration": "4 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Se recomienda contratar excursión con operador o agencia.",
+    "gpx_url": "https://example.com/gpx/mirador_glaciar_martial.gpx"
+  },
+  {
+    "name": "Filo-Reserva del Glaciar Martial",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "3 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "No se comercializa por agencias ni operadores.",
+    "gpx_url": "https://example.com/gpx/filo_glaciar_martial.gpx"
+  },
+  {
+    "name": "Cascada Beban",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "4 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Todo el año",
+    "notes": "Ubicado a 17 km de Ushuaia.",
+    "gpx_url": "https://example.com/gpx/cascada_beban.gpx"
+  },
+  {
+    "name": "Laguna Esmeralda",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "5 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Todo el año",
+    "notes": "Se recomienda contratar excursión con operador o agencia.",
+    "gpx_url": "https://example.com/gpx/laguna_esmeralda.gpx"
+  },
+  {
+    "name": "Laguna Turquesa",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "3 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Se recomienda contratar excursión con operador o agencia.",
+    "gpx_url": "https://example.com/gpx/laguna_turquesa.gpx"
+  },
+  {
+    "name": "Cascada y Laguna Submarino ARA San Juan",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "7 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Se recomienda contratar excursión con operador o agencia.",
+    "gpx_url": "https://example.com/gpx/laguna_submarino.gpx"
+  },
+  {
+    "name": "Lagunas de los Perros y Laguna Fiel",
+    "difficulty": "Media",
+    "distance": "N/A",
+    "duration": "4 h",
+    "location": "Ushuaia",
+    "seasonal_availability": "Noviembre a Abril",
+    "notes": "Se recomienda contratar excursión con operador o agencia.",
+    "gpx_url": "https://example.com/gpx/lagunas_perros_fiel.gix"
+  },
+  {
+    "name": "Laguna de los Patos (Provincial)",
+    "difficulty": "Baja",
+    "distance": "N/A",
+    "duration": "20 min",
+    "location": "Río Grande",
+    "seasonal_availability": "Todo el año",
+    "notes": "Bien demarcado con cartelería informativa. Ideal para observación de aves.",
+    "gpx_url": "https://example.com/gpx/laguna_patos_provincial.gpx"
+  },
+  {
+    "name": "Punta Popper",
+    "difficulty": "Baja",
+    "distance": "N/A",
+    "duration": "30 min",
+    "location": "Río Grande",
+    "seasonal_availability": "Todo el año",
+    "notes": "Sendero señalizado y habilitado.",
+    "gpx_url": "https://example.com/gpx/punta_popper.gpx"
+  }
+]
