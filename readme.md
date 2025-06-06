@@ -2,6 +2,7 @@
 
 - Para Desarrollo de Sistemas IA
 - Profesor: Martin Mirabete
+- Alumno: Carlos A. Gongora
 - Instituto Politécnico Malvinas Argentinas de Rio Grande
 
 *Descripción del Proyecto*
