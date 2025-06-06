@@ -1,5 +1,9 @@
 # Sistema Experto de Senderismo y Turismo en Tierra del Fuego
 
+- Para Desarrollo de Sistemas IA
+- Profesor: Martin Mirabete
+- Instituto Politécnico Malvinas Argentinas de Rio Grande
+
 *Descripción del Proyecto*
 
 Este proyecto implementa un Sistema Experto de Turismo para la provincia de Tierra del Fuego, Argentina, utilizando FastAPI para proporcionar una API web eficiente. El objetivo principal es ofrecer información detallada y recomendaciones sobre diversas actividades turísticas, incluyendo senderismo, museos, deportes de invierno, flora y fauna, y pesca deportiva.
