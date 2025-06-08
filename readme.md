@@ -1,6 +1,6 @@
 # Sistema Experto de Senderismo y Turismo en Tierra del Fuego
 
-- Para Desarrollo de Sistemas IA
+- Para Desarrollo de Sistemas de IA
 - Profesor: Martin Mirabete
 - Alumno: Carlos A. Gongora
 - Instituto Politécnico Malvinas Argentinas de Rio Grande
