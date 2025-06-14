@@ -5,9 +5,9 @@
 - Alumno: Carlos A. Gongora
 - Instituto Politécnico Malvinas Argentinas de Rio Grande
 
-*Descripción del Proyecto*
+_Descripción del Proyecto_
 
-Este proyecto implementa un Sistema Experto de Senderismo y Turismo para la provincia de Tierra del Fuego, Argentina, utilizando FastAPI para proporcionar una API web eficiente. 
+Este proyecto implementa un Sistema Experto de Senderismo y Turismo para la provincia de Tierra del Fuego, Argentina, utilizando FastAPI para proporcionar una API web eficiente.
 
 El objetivo principal es ofrecer información detallada y recomendaciones sobre diversas actividades de tipo turísticas, donde lo principal se centra en el senderismo de hermosos lugares naturales pero tambien se incluyen: museos, deportes de invierno, flora, fauna y pesca deportiva.
 
@@ -35,28 +35,35 @@ Estructura del Proyecto
 
 El proyecto se organiza en los siguientes archivos y directorios:
 
-tu_proyecto/
+SE_Senderos_TDF/
 
-├── data/
-
-│   ├── senderos.json        # Datos de senderos
-
-│   ├── museums.json         # Datos de museos
-
-│   ├── winter_sports.json   # Datos de deportes de invierno
-
-│   ├── nature.json          # Datos de flora y fauna
-
-│   └── fishing.json         # Datos de pesca
-
-├── main.py                  # Aplicación FastAPI y definición de endpoints
-
-├── models.py                # Modelos de datos Pydantic para la validación
-
-├── logic.py                 # Lógica de negocio y funciones de filtrado/recomendación
-
-└── data_loader.py           # Módulo para cargar datos desde archivos JSON
-
+├── README.md # El archivo README que ya tenemos
+├── docs/ # Documentos, bocetos, imagenes
+│ └── arquitectura_conocimiento.pdf
+│ └── decision_tree_turismo.png # La imagen del árbol de decisión
+├── backend/ # Carpeta para todo el código Python (FastAPI)
+│ ├── data/
+│ │ ├── senderos.json
+│ │ ├── museums.json
+│ │ ├── winter_sports.json
+│ │ ├── nature.json
+│ │ └── fishing.json
+│ ├── main.py
+│ ├── models.py
+│ ├── logic.py
+│ ├── data_loader.py
+│ └── requirements.txt # Dependencias del backend
+└── frontend/ # Carpeta para todo el código React
+├── build/
+├── node_modules/
+├── public/
+├── src/
+├── package.json
+├── package-lock.json
+├── .gitignore # Para ignorar archivos que no deben ir a Git
+├── .env # Para variables de entorno del frontend (ej. URL del backend)
+├── README
+└── ... otros archivos de React
 
 Requisitos
 
@@ -69,7 +76,7 @@ Instalación:
 Sigue estos pasos para configurar y ejecutar el proyecto localmente:
 
 - Clona el repositorio:
-  
+
 git clone https://github.com/tu_usuario/tu_proyecto.git
 
 cd tu_proyecto
@@ -77,19 +84,17 @@ cd tu_proyecto
 - (Reemplaza tu_usuario y tu_proyecto con los datos de tu repositorio)
 
 - Crea la carpeta data y copia los archivos JSON:
-  
+
 Asegúrate de tener la estructura de carpetas y los archivos JSON tal como se describe en la sección "Estructura del Proyecto". Puedes copiar los contenidos de los archivos JSON proporcionados en la conversación anterior.
 
 - Instala las dependencias:
-  
-pip install fastapi "uvicorn[standard]" pydantic
 
+pip install fastapi "uvicorn[standard]" pydantic
 
 Uso:
 
 Una vez que hayas completado la instalación, puedes iniciar el servidor FastAPI:
 uvicorn main:app --reload
-
 
 El servidor se iniciará en http://127.0.0.1:8000.
 
@@ -128,11 +133,11 @@ Descripción: Filtra senderos según criterios como dificultad, ubicación, dura
 Cuerpo de la Solicitud (JSON):
 
 {
-  "difficulty": "Baja",
-  "location": "Parque Nacional Tierra del Fuego",
-  "duration_category": "Corta",
-  "season": "Verano (Dic-Feb)",
-  "planned_date": "2025-01-15"
+"difficulty": "Baja",
+"location": "Parque Nacional Tierra del Fuego",
+"duration_category": "Corta",
+"season": "Verano (Dic-Feb)",
+"planned_date": "2025-01-15"
 }
 
 (Todos los campos son opcionales)
