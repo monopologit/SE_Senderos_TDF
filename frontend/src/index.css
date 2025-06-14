@@ -1,0 +1,20 @@
+/* src/index.css */
+/* Estilos base para la aplicación React */
+
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');
+
+body {
+  margin: 0;
+  font-family: 'Inter', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* Nota: Tailwind CSS se cargará via CDN en public/index.html para simplicidad.
+   Si necesitas funcionalidad completa de Tailwind (ej. @apply), deberías configurar
+   Tailwind CLI o PostCSS en tu proyecto React y usar @tailwind directives aquí. */
