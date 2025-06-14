@@ -10,7 +10,8 @@
 Este proyecto implementa un Sistema Experto de Senderismo y Turismo para la provincia de Tierra del Fuego, Argentina, utilizando FastAPI para proporcionar una API web eficiente. El objetivo principal es ofrecer información detallada y recomendaciones sobre diversas actividades turísticas, incluyendo senderismo, museos, deportes de invierno, flora y fauna, y pesca deportiva.
 
 El sistema está diseñado para ser fácilmente integrable en cualquier aplicación web o móvil, permitiendo a los turistas planificar sus aventuras en el "Fin del Mundo" de manera informada y segura.
-Características
+
+Características:
 
 Filtrado de Senderos: Busca senderos por dificultad, ubicación, categoría de duración, estación del año y fecha planificada.
 
