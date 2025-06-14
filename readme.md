@@ -7,7 +7,9 @@
 
 *Descripción del Proyecto*
 
-Este proyecto implementa un Sistema Experto de Senderismo y Turismo para la provincia de Tierra del Fuego, Argentina, utilizando FastAPI para proporcionar una API web eficiente. El objetivo principal es ofrecer información detallada y recomendaciones sobre diversas actividades de tipo turísticas, donde lo rpincipal se centra en el senderismo de hermosos lugares naturales pero tambien se incluyen: museos, deportes de invierno, flora, fauna y pesca deportiva.
+Este proyecto implementa un Sistema Experto de Senderismo y Turismo para la provincia de Tierra del Fuego, Argentina, utilizando FastAPI para proporcionar una API web eficiente. 
+
+El objetivo principal es ofrecer información detallada y recomendaciones sobre diversas actividades de tipo turísticas, donde lo principal se centra en el senderismo de hermosos lugares naturales pero tambien se incluyen: museos, deportes de invierno, flora, fauna y pesca deportiva.
 
 El sistema está diseñado para ser fácilmente integrable en cualquier aplicación web o móvil, permitiendo a los turistas planificar sus aventuras en el "Fin del Mundo" de manera informada y segura.
 
