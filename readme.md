@@ -47,7 +47,7 @@ SE_Senderos_TDF/
 
 ├── backend/ # Carpeta para todo el código Python (FastAPI)
 
-│ ├── data/
+│ │ ├── data/
 
 │ │ ├── senderos.json
 
@@ -87,9 +87,7 @@ SE_Senderos_TDF/
 
 ├── .env # Para variables de entorno del frontend (ej. URL del backend)
 
-├── README
-
-└── ... otros archivos de React
+└── README
 
 
 Requisitos
