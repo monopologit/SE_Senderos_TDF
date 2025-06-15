@@ -38,32 +38,59 @@ El proyecto se organiza en los siguientes archivos y directorios:
 SE_Senderos_TDF/
 
 ├── README.md # El archivo README que ya tenemos
+
 ├── docs/ # Documentos, bocetos, imagenes
+
 │ └── arquitectura_conocimiento.pdf
+
 │ └── decision_tree_turismo.png # La imagen del árbol de decisión
+
 ├── backend/ # Carpeta para todo el código Python (FastAPI)
+
 │ ├── data/
+
 │ │ ├── senderos.json
+
 │ │ ├── museums.json
+
 │ │ ├── winter_sports.json
+
 │ │ ├── nature.json
+
 │ │ └── fishing.json
+
 │ ├── main.py
+
 │ ├── models.py
+
 │ ├── logic.py
+
 │ ├── data_loader.py
+
 │ └── requirements.txt # Dependencias del backend
+
 └── frontend/ # Carpeta para todo el código React
+
 ├── build/
+
 ├── node_modules/
+
 ├── public/
+
 ├── src/
+
 ├── package.json
+
 ├── package-lock.json
+
 ├── .gitignore # Para ignorar archivos que no deben ir a Git
+
 ├── .env # Para variables de entorno del frontend (ej. URL del backend)
+
 ├── README
+
 └── ... otros archivos de React
+
 
 Requisitos
 
