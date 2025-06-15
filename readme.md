@@ -138,19 +138,29 @@ Una vez que ambos servidores (backend y frontend) estén corriendo localmente:
 Endpoints de la API (Backend)
 
 La API de FastAPI expone los siguientes endpoints (accede a http://127.0.0.1:8000/docs para una documentación interactiva completa):
+  
   GET /: Mensaje de bienvenida.
+  
   GET /activities: Lista los tipos de actividades disponibles.
+  
   POST /senderos/filter: Filtra senderos por dificultad, ubicación, duración, estación o fecha.
+  
   GET /senderos/recommendations/safety: Obtiene recomendaciones de seguridad para senderismo, opcionalmente por dificultad.
+ 
   GET /museums: Lista museos y sitios culturales.
+  
   GET /winter_sports: Muestra información sobre deportes de invierno.
+  
   GET /nature: Proporciona detalles sobre flora y fauna.
+ 
   GET /fishing: Ofrece información sobre pesca deportiva.
   
 Documentación Adicional
 
   Para una comprensión más profunda de la arquitectura y la lógica del sistema experto, consulta los siguientes documentos en la carpeta docs/:
+  
   arquitectura_conocimiento.pdf: Detalla cómo se estructura y organiza el conocimiento, las reglas de inferencia y la lógica detrás del sistema.
+  
   decision_tree_turismo.png: Una representación visual del árbol de decisión conceptual que guía el flujo del sistema.
   
 Árbol de Decisión del Sistema Experto
