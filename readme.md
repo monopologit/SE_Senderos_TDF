@@ -120,7 +120,9 @@ El backend estará corriendo en http://127.0.0.1:8000. Puedes acceder a su docum
    - Configura la URL del backend en el frontend:
      Crea (o abre) el archivo .env en la carpeta frontend/.
      Añade la siguiente línea:REACT_APP_API_URL=http://127.0.0.1:8000
+     
      Importante: Para pruebas locales, apuntamos a tu backend local. Cuando despliegues, esta URL deberá ser la URL pública real de tu backend.
+
      Ejecuta la aplicación React en modo desarrollo:
      npm start
      Esto abrirá automáticamente tu aplicación React en tu navegador (usualmente en http://localhost:3000). Si no se abre, cópiala y pégala en tu navegador.
