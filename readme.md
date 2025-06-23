@@ -59,6 +59,8 @@ SE_Senderos_TDF/
 └── frontend/                 # Código React (interfaz de usuario)
 
     ├── public/               # Archivos estáticos (ej. index.html)
+
+              ├── track/      # Archivos para gps (ej. Laguna_Esmeralda.gpx)
     
     ├── src/                  # Componentes y lógica de React
     
