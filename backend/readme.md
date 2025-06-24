@@ -57,10 +57,19 @@ Una vez que hayas completado la instalación, puedes iniciar el servidor
                     FastAPI:uvicorn main:app --reload
                     El servidor se iniciará por defecto en http://127.0.0.1:8000.
 
-Acceso a la Documentación de la APIPuedes acceder a la documentación interactiva de la API (Swagger UI) en tu navegador web, lo cual es muy útil para entender y probar los endpoints:http://127.0.0.1:8000/docsDesde esta interfaz, podrás explorar todos los endpoints disponibles, ver sus parámetros, modelos de respuesta y realizar pruebas directamente.
-También puedes acceder a la documentación ReDoc en:http://127.0.0.1:8000/redocEndpoints de la APILos endpoints disponibles son los siguientes (consulta la documentación interactiva en /docs para detalles completos):
-GeneralGET /Bienvenida al sistema experto.GET /activitiesLista los tipos de actividades turísticas disponibles.
-SenderismoPOST /senderos/filterDescripción: Filtra senderos por dificultad, ubicación, categoría de duración, estación del año o fecha planificada.
+Acceso a la Documentación de la APIPuedes acceder a la documentación interactiva de la API (Swagger UI) en tu navegador web, lo cual es muy útil para entender y probar los endpoints:
+http://127.0.0.1:8000/docsDesde esta interfaz, podrás explorar todos los endpoints disponibles, ver sus parámetros, modelos de respuesta y realizar pruebas directamente.
+También puedes acceder a la documentación ReDoc en:
+http://127.0.0.1:8000/redoc
+Endpoints de la API
+Los endpoints disponibles son los siguientes (consulta la documentación interactiva en /docs para detalles completos):
+
+General
+GET /Bienvenida al sistema experto.
+GET /activities
+Lista los tipos de actividades turísticas disponibles.
+SenderismoPOST /senderos/filter
+Descripción: Filtra senderos por dificultad, ubicación, categoría de duración, estación del año o fecha planificada.
 
 Cuerpo de la Solicitud (JSON):{
   "difficulty": "Media",
