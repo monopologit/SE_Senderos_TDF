@@ -57,11 +57,11 @@ SE_Senderos_TDF/
 
 │ └── requirements.txt # Dependencias de Python del backend
 
-└── frontend/ # Código React (interfaz de usuario)
+├── frontend/ # Código React (interfaz de usuario)
 
     ├── public/               # Archivos estáticos (ej. index.html)
 
-              ├── track/      # Archivos para gps (ej. Laguna_Esmeralda.gpx)
+              └── track/      # Archivos para gps (ej. Laguna_Esmeralda.gpx)
 
     ├── src/                  # Componentes y lógica de React
 
@@ -75,7 +75,7 @@ SE_Senderos_TDF/
 
     ├── build/                # (Ignorado por Git) Versión optimizada para despliegue
 
-    └── video/                     # Videos adicionales del proyecto
+└── video/ # Videos adicionales del proyecto
 
 Requisitos Previos
 
