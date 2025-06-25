@@ -73,7 +73,7 @@ SE_Senderos_TDF/
 
     ├── node_modules/         # (Ignorado por Git) Librerías de Node.js
 
-    ├── build/                # (Ignorado por Git) Versión optimizada para despliegue
+    └── build/                # (Ignorado por Git) Versión optimizada para despliegue
 
 └── video/ # Videos adicionales del proyecto
 
